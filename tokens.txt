@@ -1,0 +1,76 @@
+
+html pr 1
+
+php pr 2
+
+cuerpo pr 3
+
+encabezado pr 4
+
+division pr 5
+
+enlace pr 6
+
+parrafo pr 7
+
+@ ce 8
+
+( ce 9
+
+) ce 10
+
+= ce 11
+
+] ce 12
+
+, ce 13
+
+; ce 14
+
+{ ce 15
+
+} ce 16
+
+// ce 17
+
+< ce 18
+
+> ce 19
+
+== cr 20
+
+!= cr 21
+
+<< cr 22
+
+>> cr 23
+
++ ca 24
+
+- ca 25
+
+* ca 26
+
+/ ca 27
+
+imagenalto pr 28
+
+imagenubic pr 29
+
+imagenancho pr 30
+
+boton pr 31
+
+audioubic pr 32
+
+audiotipo pr 33
+
+letratipo pr 34
+
+letracolor pr 35
+
+entrada pr pr 36
+
+' ce 37
+
+" ce 38
