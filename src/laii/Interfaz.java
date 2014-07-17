@@ -8,13 +8,10 @@ import javax.swing.JOptionPane;
 
 
 public class Interfaz extends javax.swing.JFrame {
-  
-    
+ 
 String resultado="",error="";
-    /**
-     * Creates new form Interfaz
-     */
-    public Interfaz() {
+
+public Interfaz() {
     
         initComponents();
    
