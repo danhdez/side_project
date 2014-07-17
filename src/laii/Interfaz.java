@@ -12,9 +12,7 @@ public class Interfaz extends javax.swing.JFrame {
 String resultado="",error="";
 
 public Interfaz() {
-    
         initComponents();
-   
     }
     
  void Cadena(String cadena) throws IOException{
